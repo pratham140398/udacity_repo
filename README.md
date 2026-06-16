@@ -24,3 +24,5 @@ git diff: Shows the differences between your current working directory and the s
 git stash: Temporarily saves modified, tracked files so you can work on something else without committing.
 git reset --hard [commit-id]: Resets your working directory and history to a specific commit, discarding all changes after it
 git revert [commit-id]: Creates a new commit that undoes the changes of a previous commit without deleting its history.
+
+gti checkout -b <brach_name>
