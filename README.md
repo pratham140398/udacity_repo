@@ -25,4 +25,4 @@ git stash: Temporarily saves modified, tracked files so you can work on somethin
 git reset --hard [commit-id]: Resets your working directory and history to a specific commit, discarding all changes after it
 git revert [commit-id]: Creates a new commit that undoes the changes of a previous commit without deleting its history.
 
-gti checkout -b <brach_name>
+gti checkout -b <brach_name>: create a new brach and switch to that brach
